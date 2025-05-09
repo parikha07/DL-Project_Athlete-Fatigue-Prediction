@@ -1,5 +1,4 @@
 # DL-Project_Athlete-Fatigue-Prediction
-# 🧠 Athlete Fatigue Prediction using Deep Learning
 
 This project presents a Deep Learning approach to classify **athlete fatigue levels** using **sensor-based data** (accelerometer and gyroscope readings) from the [UCI Human Activity Recognition Dataset](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones).
 
@@ -19,7 +18,6 @@ This project presents a Deep Learning approach to classify **athlete fatigue lev
 ---
 
 ## 🧠 Model Overview
-
 A **Dense Neural Network (Feedforward)** was used for multiclass classification of fatigue levels.
 
 ### Architecture:
